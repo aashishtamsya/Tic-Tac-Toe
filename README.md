@@ -10,6 +10,7 @@ Tic Tac Toe Game iOS written in Objective-C. 🎮 🎲
 
 -	[Requirements](#requirements)
 -	[Installation](#installation)
+-	[Demo](#demo)
 -	[Contribution](#contribution)
 -	[Credits](#credits)
 -	[License](#license)
@@ -26,6 +27,10 @@ Tic Tac Toe Game iOS written in Objective-C. 🎮 🎲
 ```sh
 $ git clone https://github.com/aashishtamsya/Tic-Tac-Toe.git 
 ```
+
+## Demo
+
+![DEMO](/Resources/DEMO.gif)
 
 ## Contribution
 
